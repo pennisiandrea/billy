@@ -1,0 +1,8 @@
+# ignore all .isopen and .set files
+*.isopen
+*.set
+
+# ignore all files in the Temp/Diagnosis/Binaries subfolders
+Diagnosis/
+Temp/
+Binaries/

@@ -1,0 +1,4 @@
+VAR
+	TcpChat1 : TCPChatFB;
+	TcpChat2 : TCPChatFB;
+END_VAR
